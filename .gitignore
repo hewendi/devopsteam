@@ -6,3 +6,4 @@ devopsteam/build
 .idea/vcs.xml
 system.log
 __pycache__
+*.spec
