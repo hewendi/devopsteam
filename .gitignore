@@ -7,3 +7,4 @@ devopsteam/build
 system.log
 __pycache__
 *.spec
+*.pyc
